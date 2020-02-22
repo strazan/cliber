@@ -1,0 +1,16 @@
+{
+  "name": "cilber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sigge Labor - https://www.github.com/strazan",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
